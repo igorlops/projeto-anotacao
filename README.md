@@ -1,3 +1,3 @@
 # projeto-anotacao
 
-### Projeto simples usando javascript
+### Projeto simples usando jQuery
