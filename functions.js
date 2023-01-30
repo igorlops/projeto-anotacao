@@ -12,5 +12,6 @@ $(function(){
 
 			var finalTime = hh+":"+mn;
 			textArea.html("Nova anotação em: "+finalTime);
+
 		})
 	})
